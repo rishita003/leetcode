@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishita003/LEETCODE/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rishita003/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rishita003/LEETCODE/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/rishita003/LEETCODE/tree/master/0724-find-pivot-index) |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rishita003/LEETCODE/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
