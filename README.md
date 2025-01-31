@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/rishita003/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rishita003/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
