@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/rishita003/LEETCODE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rishita003/LEETCODE/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/rishita003/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/rishita003/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -60,6 +61,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rishita003/LEETCODE/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rishita003/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rishita003/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/rishita003/LEETCODE/tree/master/0141-linked-list-cycle) |
