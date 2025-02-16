@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rishita003/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/rishita003/LEETCODE/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/rishita003/LEETCODE/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/rishita003/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rishita003/LEETCODE/tree/master/0268-missing-number) |
@@ -82,4 +83,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rishita003/LEETCODE/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/rishita003/LEETCODE/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/rishita003/LEETCODE/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
