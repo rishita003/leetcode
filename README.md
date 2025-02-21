@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rishita003/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rishita003/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rishita003/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rishita003/LEETCODE/tree/master/0056-merge-intervals) |
@@ -48,6 +49,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rishita003/LEETCODE/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rishita003/LEETCODE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rishita003/LEETCODE/tree/master/0278-first-bad-version) |
