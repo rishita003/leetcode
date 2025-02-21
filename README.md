@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rishita003/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rishita003/LEETCODE/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/rishita003/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rishita003/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/rishita003/LEETCODE/tree/master/0162-find-peak-element) |
@@ -29,6 +30,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rishita003/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rishita003/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rishita003/LEETCODE/tree/master/0148-sort-list) |
