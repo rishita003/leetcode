@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/rishita003/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rishita003/LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rishita003/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [1873-longest-nice-substring](https://github.com/rishita003/LEETCODE/tree/master/1873-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/rishita003/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishita003/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [1873-longest-nice-substring](https://github.com/rishita003/LEETCODE/tree/master/1873-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/rishita003/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [1873-longest-nice-substring](https://github.com/rishita003/LEETCODE/tree/master/1873-longest-nice-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -99,6 +102,7 @@
 | [0148-sort-list](https://github.com/rishita003/LEETCODE/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishita003/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rishita003/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [1873-longest-nice-substring](https://github.com/rishita003/LEETCODE/tree/master/1873-longest-nice-substring) |
 ## Merge Sort
 |  |
 | ------- |
@@ -138,4 +142,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishita003/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/rishita003/LEETCODE/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
