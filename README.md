@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rishita003/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/rishita003/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rishita003/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rishita003/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rishita003/LEETCODE/tree/master/0075-sort-colors) |
@@ -92,6 +93,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rishita003/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/rishita003/LEETCODE/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/rishita003/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/rishita003/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/rishita003/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rishita003/LEETCODE/tree/master/0055-jump-game) |
 ## Greedy
 |  |
