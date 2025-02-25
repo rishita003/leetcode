@@ -1,47 +1,15 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        return divideAndConquer(nums, 0, nums.size() - 1);
-    }
+        int max_current = nums[0];
+        int max_global = nums[0];
 
-private:
-    int divideAndConquer(vector<int>& nums, int left, int right) {
-        if (left == right) {
-            return nums[left]; 
+        for (int i = 1; i < nums.size(); i++) {
+            
+            max_current = max(nums[i], max_current + nums[i]);
+            max_global = max(max_global, max_current);
         }
 
-        int mid = left + (right - left) / 2; 
-
-        
-        int leftMax = divideAndConquer(nums, left, mid);
-        int rightMax = divideAndConquer(nums, mid + 1, right);
-
-        int crossMax = maxCrossingSubarray(nums, left, mid, right);
-
-        return max({leftMax, rightMax, crossMax});
-    }
-
-    int maxCrossingSubarray(vector<int>& nums, int left, int mid, int right) {
-        int leftSum = INT_MIN; 
-        int sum = 0;
-
-        for (int i = mid; i >= left; i--) {
-            sum += nums[i];
-            if (sum > leftSum) {
-                leftSum = sum;
-            }
-        }
-
-        int rightSum = INT_MIN; 
-        sum = 0;
-
-        for (int i = mid + 1; i <= right; i++) {
-            sum += nums[i];
-            if (sum > rightSum) {
-                rightSum = sum;
-            }
-        }
-
-        return leftSum + rightSum;
+        return max_global;
     }
 };
