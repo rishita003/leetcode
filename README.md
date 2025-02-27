@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/rishita003/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishita003/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/rishita003/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishita003/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/rishita003/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/rishita003/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/rishita003/LEETCODE/tree/master/0792-binary-search) |
@@ -47,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/rishita003/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rishita003/LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rishita003/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishita003/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0268-missing-number](https://github.com/rishita003/LEETCODE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rishita003/LEETCODE/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/rishita003/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishita003/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/rishita003/LEETCODE/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -135,6 +138,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rishita003/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishita003/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -153,6 +157,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rishita003/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishita003/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishita003/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
