@@ -75,6 +75,7 @@
 | [0061-rotate-list](https://github.com/rishita003/LEETCODE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rishita003/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/rishita003/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rishita003/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/rishita003/LEETCODE/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/rishita003/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -150,5 +151,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/rishita003/LEETCODE/tree/master/0125-valid-palindrome) |
 | [1873-longest-nice-substring](https://github.com/rishita003/LEETCODE/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
