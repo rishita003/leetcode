@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishita003/LEETCODE/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishita003/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rishita003/LEETCODE/tree/master/0045-jump-game-ii) |
@@ -60,6 +61,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishita003/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rishita003/LEETCODE/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishita003/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -109,6 +111,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishita003/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rishita003/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/rishita003/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rishita003/LEETCODE/tree/master/0169-majority-element) |
