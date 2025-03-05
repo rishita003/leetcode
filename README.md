@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rishita003/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishita003/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/rishita003/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rishita003/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishita003/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/rishita003/LEETCODE/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/rishita003/LEETCODE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rishita003/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0088-merge-sorted-array) |
