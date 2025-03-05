@@ -2,35 +2,29 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
         int n = nums.size();
-        if (n == 1) // if only one element ther=n return
+        if (n == 1) // If only one element, return
             return;
 
-        int i = 1;
-        int lastInc = -1; // rightmost peak
-        while (i < n) {   // find the peak of the last element
+        int lastInc = -1; // Rightmost peak index
+        for (int i = 1; i < n; i++) {  // Find the last increasing pair
             if (nums[i] > nums[i - 1])
                 lastInc = i;
-                i += 1;
-        }
-         
-
-        if (lastInc == -1) {               //check array if it is in descending order 
-            for (i = 0; i < n / 2; ++i) {              //n/2 is for swapping 
-                swap(nums[i], nums[n - i - 1]);           //if it then simply sort the array and return
-            }
-             return;
         }
 
-        //find the element in the range
-        int mn = nums[lastInc];
+        if (lastInc == -1) {  // If array is completely descending
+            reverse(nums.begin(), nums.end()); // Reverse and return
+            return;
+        }
+
+        // Find the next greater element in the range
         int index = lastInc;
-        for (i = lastInc; i < n; ++i) {
-            if (nums[i] > nums[lastInc - 1] && nums[i] < nums[index]) {
+        for (int i = lastInc; i < n; ++i) {
+            if (nums[i] > nums[lastInc - 1] && nums[i] <= nums[index]) {
                 index = i;
             }
         }
 
         swap(nums[lastInc - 1], nums[index]);
-        sort(nums.begin() + lastInc, nums.end());
+        sort(nums.begin() + lastInc, nums.end());  // Sort the remaining part
     }
 };
