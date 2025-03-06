@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/rishita003/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishita003/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rishita003/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/rishita003/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rishita003/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rishita003/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rishita003/LEETCODE/tree/master/0056-merge-intervals) |
@@ -60,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rishita003/LEETCODE/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/rishita003/LEETCODE/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -164,6 +166,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rishita003/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rishita003/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishita003/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishita003/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
