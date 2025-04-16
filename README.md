@@ -33,6 +33,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/rishita003/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/rishita003/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/rishita003/LEETCODE/tree/master/0792-binary-search) |
+| [1829-maximum-units-on-a-truck](https://github.com/rishita003/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0268-missing-number](https://github.com/rishita003/LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rishita003/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishita003/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1829-maximum-units-on-a-truck](https://github.com/rishita003/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/rishita003/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rishita003/LEETCODE/tree/master/0055-jump-game) |
+| [1829-maximum-units-on-a-truck](https://github.com/rishita003/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Interactive
 |  |
 | ------- |
